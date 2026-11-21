@@ -47,12 +47,12 @@ computational-physics-simulations/
 ## 📊 Sample Results & Visualizations
 
 ### Quantum Dynamics & Statistical Mechanics
-| 1D Schrödinger Wavepacket (Crank-Nicolson) | 2D Ising Phase Transition ($T_c \approx 2.269$) |
+| 1D Schrödinger Wavepacket (Crank-Nicolson) | 2D Ising Phase Transition (T<sub>c</sub> ≈ 2.269) |
 | :---: | :---: |
 | ![1D Schrödinger](figures/schrodinger_1d.png) | ![2D Ising](figures/ising_2d_observables.png) |
 
 ### Phase Separation & Molecular Dynamics
-| Binary Alloy Quenching ($p = 0.50$) | 2D Lennard-Jones Fluid under Gravity |
+| Binary Alloy Quenching (p = 0.50) | 2D Lennard-Jones Fluid under Gravity |
 | :---: | :---: |
 | ![Binary Alloy](figures/binary_alloy_p50.png) | ![Lennard-Jones MD](figures/lennard_jones_2d.gif) |
 
