@@ -1,6 +1,6 @@
 # Computational Physics & Numerical Simulations
 
-A collection of self-contained Python numerical simulations spanning **quantum mechanics**, **statistical physics**, **molecular dynamics**, **stochastic processes**, **cellular automata**, and **combinatorial optimization**.
+A collection of self-contained Python numerical simulations spanning **quantum mechanics**, **statistical physics**, **molecular dynamics**, **stochastic processes**, **classical mechanics**, **cellular automata**, and **combinatorial optimization**.
 
 ---
 
